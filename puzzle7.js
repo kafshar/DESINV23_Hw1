@@ -9,6 +9,17 @@ right();
 
 while (getColor() != "red") {
   getColor(); 
-  down(); 
+  up(); 
 } 
 right();
+right(); 
+} 
+moveRudy(); 
+moveRudy();
+while (getColor() != "red") {
+  getColor(); 
+  down(); 
+}
+right(); 
+right();
+
